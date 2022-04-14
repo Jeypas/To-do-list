@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDGothic:wght@400;700&display=swap');
+
+
+* {
+    font-family: "BIZ UDGothic";
+}
+
+.checked {
+    text-decoration:line-through;
+}
+
+li {
+    list-style: none;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+body{
+    background-color: rgb(189, 254, 232);
+}
+
+input {
+    width: 15rem;
+    height: 20px;
+}
+
+button { 
+    width: 8rem;
+    height: 26px;
+    
+}
